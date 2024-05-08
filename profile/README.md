@@ -1,7 +1,9 @@
 <div align="center">
-<a href="https://hoto.moe/@hoto_moe">
-  <img src="https://raw.githubusercontent.com/hotomoe/.github/master/assets/HotoMoe-Path.svg" alt="hotomoe 아이콘 (OwO)" width="310"/>
-</a>
+  <a href="https://hoto.moe/@hoto_moe">
+    <img src="https://raw.githubusercontent.com/hotomoe/.github/master/assets/HotoMoe-Path.svg" alt="hotomoe 아이콘 (OwO)" width="310"/>
+  </a>
+  <br>
+  <p>Logo designed by <a href="https://hoto.moe/@hcho3">@hcho3@hoto.moe</a></p>
 </div>
 
 ---
