@@ -19,7 +19,7 @@ hotomoe 서비스는 미국 와이오밍주에 위치한 HotoUS LLC.에서 소�
 
 ## Contact
 * General support: [support@hoto.moe](mailto:support@hoto.moe)
-* DMCA Request: [dmca@hoto.us](mailto:dmca@hoto.us)
+* DMCA Request: [dmca@hoto.moe](mailto:dmca@hoto.moe)
 
 ## Special Thanks
 * [@hcho3@hoto.moe](https://hoto.moe/@hcho3) for OwO logo design
